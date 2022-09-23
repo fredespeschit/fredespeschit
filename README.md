@@ -3,8 +3,6 @@
 
 - 🔥 Junior Web Developer & Instructor focused on helping people start programming 
 
-- 🔭 Open to new opportunities
-
 - ▶️ I'm starting a youtube channel [youtube.com/fredespeschit](https://www.youtube.com/channel/UCTLlgsdpEPj2mOWyZkth4ig)
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
