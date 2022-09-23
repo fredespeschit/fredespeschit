@@ -15,16 +15,17 @@
 <a href="https://codepen.io/fredericoespeschit/collections/public" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-fredericoespeschit-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://instagram.com/fredespeschit" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-fredespeschit-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+
 <a href="https://www.linkedin.com/in/fredericoespeschit/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-fredericoespeschit-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<!--
+<a href="https://instagram.com/fredespeschit" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-fredespeschit-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://twitter.com/fridiricu" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-fridiricu-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<!--
 <a href="https://youtube.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>-->
